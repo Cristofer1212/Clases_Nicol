@@ -1,4 +1,4 @@
-package Clases_Wrapper;
+package Clases_Y_Objetos.Clases_Wrapper;
 
 public class ClassWrapperInteger {
     public static void main(String[] args) {

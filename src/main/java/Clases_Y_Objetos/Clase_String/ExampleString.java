@@ -1,4 +1,4 @@
-package Clase_String;
+package Clases_Y_Objetos.Clase_String;
 
 public class ExampleString {
 

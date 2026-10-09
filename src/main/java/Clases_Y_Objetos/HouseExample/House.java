@@ -1,4 +1,4 @@
-package HouseExample;
+package Clases_Y_Objetos.HouseExample;
 
 public class House {
     private int door;

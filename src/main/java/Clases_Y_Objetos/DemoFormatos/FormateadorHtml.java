@@ -1,4 +1,4 @@
-package DemoFormatos;
+package Clases_Y_Objetos.DemoFormatos;
 
 public class FormateadorHtml extends Formateador {
 
